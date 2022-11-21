@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/waterfall/static/css/main.35836359.css",
+    "main.js": "/waterfall/static/js/main.7046c404.js",
+    "index.html": "/waterfall/index.html",
+    "main.35836359.css.map": "/waterfall/static/css/main.35836359.css.map",
+    "main.7046c404.js.map": "/waterfall/static/js/main.7046c404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35836359.css",
+    "static/js/main.7046c404.js"
+  ]
+}
