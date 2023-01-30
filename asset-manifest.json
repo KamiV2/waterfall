@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/waterfall/static/css/main.35836359.css",
-    "main.js": "/waterfall/static/js/main.5d40cec7.js",
+    "main.js": "/waterfall/static/js/main.ca405fd7.js",
+    "static/media/bd.png": "/waterfall/static/media/bd.c081ba9516b64f627e3c.png",
     "index.html": "/waterfall/index.html",
     "main.35836359.css.map": "/waterfall/static/css/main.35836359.css.map",
-    "main.5d40cec7.js.map": "/waterfall/static/js/main.5d40cec7.js.map"
+    "main.ca405fd7.js.map": "/waterfall/static/js/main.ca405fd7.js.map"
   },
   "entrypoints": [
     "static/css/main.35836359.css",
-    "static/js/main.5d40cec7.js"
+    "static/js/main.ca405fd7.js"
   ]
 }
