@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/waterfall/static/css/main.35836359.css",
-    "main.js": "/waterfall/static/js/main.dc67de54.js",
+    "main.js": "/waterfall/static/js/main.f9095bcb.js",
     "index.html": "/waterfall/index.html",
     "main.35836359.css.map": "/waterfall/static/css/main.35836359.css.map",
-    "main.dc67de54.js.map": "/waterfall/static/js/main.dc67de54.js.map"
+    "main.f9095bcb.js.map": "/waterfall/static/js/main.f9095bcb.js.map"
   },
   "entrypoints": [
     "static/css/main.35836359.css",
-    "static/js/main.dc67de54.js"
+    "static/js/main.f9095bcb.js"
   ]
 }
